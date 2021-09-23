@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamjamesuche
 - 👀 I’m interested in Biomedical Data Analysis & Bioinformatics
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on projects in the near future
 - 📫 How to reach me @iamjamesuche on twitter
 
